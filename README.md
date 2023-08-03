@@ -1,3 +1,3 @@
 # password-rotation
 
-this is beta version for rotate password and upload the credential to hashicorp vault
+this is beta version for password rotation and upload the credential to hashicorp vault
